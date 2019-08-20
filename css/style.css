@@ -63,6 +63,7 @@ body {
 .btn {
   background-color: #c69963;
   color: #fff;
+  outline: none;
   border: none;
   border-radius: 0;
   font-family: "Josefin Sans", sans-serif;
