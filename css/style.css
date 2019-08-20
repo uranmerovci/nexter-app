@@ -69,7 +69,7 @@ body {
   font-family: "Josefin Sans", sans-serif;
   font-size: 1.5rem;
   text-transform: uppercase;
-  padding: 1.8rem 3rem;
+  padding: 1.80rem 3rem;
   cursor: pointer;
   transition: all .2s; }
   .btn:hover {
